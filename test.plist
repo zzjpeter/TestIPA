@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zhuzhijia/TestIPA/blob/master/LesParkExplore.ipa</string>
+					<string>https://raw.githubusercontent.com/zhuzhijia/TestIPA/master/LesParkExplore.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>bundle ID</string>
+				<string>com.gzxy.sawa</string>
 				<key>bundle-version</key>
-				<string>版本号</string>
+				<string>1.1.9.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
