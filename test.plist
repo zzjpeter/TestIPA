@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zhuzhijia/TestIPA/master/LesParkExplore.ipa</string>
+					<string>https://lespark.oss-cn-beijing.aliyuncs.com/LesParkExplore.ipa?Expires=1579002263&amp;OSSAccessKeyId=TMP.hhE5GQpGgK87ncgrp4PPHdQZYt3FcWhXNWxZcxfkgqB5Xk3aBaeiE5sXU77pf1JXGx6Simvkw8Sn8TRD4e4fJFq141Zsg83YZzB3SifpSNU8tykkrK7HcVZ5nfEtdR.tmp&amp;Signature=Q8LuV347LzIZpyRnlvnrtWWKmBU%3D</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>itunes显示图片地址</string>
+					<string>https://lespark.oss-cn-beijing.aliyuncs.com/60%402x.png?Expires=1579002284&amp;OSSAccessKeyId=TMP.hhE5GQpGgK87ncgrp4PPHdQZYt3FcWhXNWxZcxfkgqB5Xk3aBaeiE5sXU77pf1JXGx6Simvkw8Sn8TRD4e4fJFq141Zsg83YZzB3SifpSNU8tykkrK7HcVZ5nfEtdR.tmp&amp;Signature=V8cg8z%2FwLLF628WduoMOxqah%2FFY%3D</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>安装应用显示的图片</string>
+					<string>https://lespark.oss-cn-beijing.aliyuncs.com/60%402x.png?Expires=1579002284&amp;OSSAccessKeyId=TMP.hhE5GQpGgK87ncgrp4PPHdQZYt3FcWhXNWxZcxfkgqB5Xk3aBaeiE5sXU77pf1JXGx6Simvkw8Sn8TRD4e4fJFq141Zsg83YZzB3SifpSNU8tykkrK7HcVZ5nfEtdR.tmp&amp;Signature=V8cg8z%2FwLLF628WduoMOxqah%2FFY%3D</string>
 				</dict>
 			</array>
 			<key>metadata</key>
